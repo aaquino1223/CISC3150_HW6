@@ -1,0 +1,14 @@
+2 + 3 - 7 * 9 / 3 + 11 % 2 
+Answer: -15.0
+y + 7 
+y is not a number
+Try again...
+7 # 7 
+# is not an operation
+Try again...
+7 + 
+There is not enough numbers
+Try again...
+1 / 0 
+Cannot divide by zero
+Try again...
